@@ -156,10 +156,3 @@ Zero Calendar includes keyboard shortcuts for power users:
 | `A` | Toggle AI assistant |
 | `S` | Go to settings |
 | `Esc` | Close dialogs |
-
-## Contribute
-Please refer to the [contributing guide](.github/CONTRIBUTING.md).
-
-## License
-
-Zero Calendar is open-source software licensed under the [GPLv3 license](LICENSE.md).
