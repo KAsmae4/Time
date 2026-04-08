@@ -155,4 +155,4 @@ Zero Calendar includes keyboard shortcuts for power users:
 | `D` | Switch to day view |
 | `A` | Toggle AI assistant |
 | `S` | Go to settings |
-| `Esc` | Close dialogs |
+| `Esc` | Close dialogs |.
